@@ -1,0 +1,12 @@
+{
+   "name": "Keyboard Shortcuts for Saavn.com",
+   "version": "0.0.1",
+   "manifest_version": 2,
+   "description": "Provides keybindings for Music Playback (Play, Pause, Next, Previous) on Saavn.com",
+   "content_scripts": [
+      {
+	 "matches": [ "http://saavn.com/*","http://www.saavn.com/*"],
+	 "js" : ["jquery-1.8.2.min.js","saavnks.js"]
+      }
+   ]
+}
