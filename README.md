@@ -4,11 +4,10 @@
 ## Description:
 Provides keybindings for Music Playback (Play, Pause, Next, Previous) on Saavn.com
 
-Supported Playback keys:
-        
-Play/Pause          : `Space`
-Next Track          : `n `, &#x2192;
-Previous Track      : `p `, &#x2190;
+Supported Playback keys:  
+Play/Pause : `Space`  
+Next Track : `n`,  `→`  
+Previous Track : `p`, `←`  
 
 ##Requirements:
 Google Chrome OR Chromium Web Browser.
