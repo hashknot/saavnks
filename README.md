@@ -13,11 +13,18 @@ Previous Track : `p`, `←`
 Google Chrome OR Chromium Web Browser.
 
 ##Installation:
+
+Download Extension from [here](https://github.com/downloads/crusador/saavnks/saavnks.crx)  
+Drag and drop the `saavnks.crx` on any Chrome Instance and you are good to go.
+You might need to refresh the page for the effects to be visible.
+
+###OR
+
 Clone the Repository.
 
 	git clone git://github.com/crusador/saavnks
 
-Drag and Drop the `saavnks.crx` on any Chrome Instance and you are good to go.
+Drag and Drop the `saavnks.crx` from saavnks directory on any Chrome Instance and you are good to go.
 You might need to refresh the page for the effects to be visible.
 
 ##Copyright and Licence
