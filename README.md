@@ -7,8 +7,8 @@ Provides keybindings for Music Playback (Play, Pause, Next, Previous) on Saavn.c
 Supported Playback keys:
         
 Play/Pause          : `Space`
-Next Track          : `n `, `&#x2192;`
-Previous Track      : `p `, `&#x2190;`
+Next Track          : `n `, &#x2192;
+Previous Track      : `p `, &#x2190;
 
 ##Requirements:
 Google Chrome OR Chromium Web Browser.
