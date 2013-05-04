@@ -28,4 +28,5 @@ Drag and Drop the `saavnks.crx` from saavnks directory on any Chrome Instance an
 You might need to refresh the page for the effects to be visible.
 
 ##Copyright and Licence
-Copyright : 2012 [JAKWorks] (http://www.facebook.com/JAKWorks)
+Released under MIT License.  
+Copyright : 2013 [Jitesh Kamble] (http://www.facebook.com/crusador)
